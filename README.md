@@ -30,6 +30,7 @@ F1-score
 
 ROC-AUC
 
-s. Dataset Size: 45,211 rows, 17 features (16 features + 1 Target Label).
+Dataset Size: 45,211 rows, 17 features (16 features + 1 Target Label).
 
+Dataset link : https://archive.ics.uci.edu/dataset/222/bank+marketing
 Outcome: Build models to identify key client segments and improve campaign efficiency.
