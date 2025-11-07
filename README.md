@@ -1,5 +1,5 @@
 ## Bank Marketing Campaign Analysis and Prediction 
-### 📊 Term Deposit Subscription - Client Behavior Analysis Project
+### 📊 Predicting Term Deposit Subscription Using Bank Marketing Data- Client Behavior Analysis Project
 
 #### 📝 Project Overview
 
